@@ -1,0 +1,14 @@
+C:\Users\aerty\source\repos\kurs3\Hw_2\Hw_2_1\bin\Debug\net8.0\Hw_2_1.exe
+C:\Users\aerty\source\repos\kurs3\Hw_2\Hw_2_1\bin\Debug\net8.0\Hw_2_1.deps.json
+C:\Users\aerty\source\repos\kurs3\Hw_2\Hw_2_1\bin\Debug\net8.0\Hw_2_1.runtimeconfig.json
+C:\Users\aerty\source\repos\kurs3\Hw_2\Hw_2_1\bin\Debug\net8.0\Hw_2_1.dll
+C:\Users\aerty\source\repos\kurs3\Hw_2\Hw_2_1\bin\Debug\net8.0\Hw_2_1.pdb
+C:\Users\aerty\source\repos\kurs3\Hw_2\Hw_2_1\obj\Debug\net8.0\Hw_2_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aerty\source\repos\kurs3\Hw_2\Hw_2_1\obj\Debug\net8.0\Hw_2_1.AssemblyInfoInputs.cache
+C:\Users\aerty\source\repos\kurs3\Hw_2\Hw_2_1\obj\Debug\net8.0\Hw_2_1.AssemblyInfo.cs
+C:\Users\aerty\source\repos\kurs3\Hw_2\Hw_2_1\obj\Debug\net8.0\Hw_2_1.csproj.CoreCompileInputs.cache
+C:\Users\aerty\source\repos\kurs3\Hw_2\Hw_2_1\obj\Debug\net8.0\Hw_2_1.dll
+C:\Users\aerty\source\repos\kurs3\Hw_2\Hw_2_1\obj\Debug\net8.0\refint\Hw_2_1.dll
+C:\Users\aerty\source\repos\kurs3\Hw_2\Hw_2_1\obj\Debug\net8.0\Hw_2_1.pdb
+C:\Users\aerty\source\repos\kurs3\Hw_2\Hw_2_1\obj\Debug\net8.0\Hw_2_1.genruntimeconfig.cache
+C:\Users\aerty\source\repos\kurs3\Hw_2\Hw_2_1\obj\Debug\net8.0\ref\Hw_2_1.dll
